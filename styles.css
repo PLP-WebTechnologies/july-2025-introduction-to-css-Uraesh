@@ -1,0 +1,49 @@
+/* General Styles */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 20px;
+  background-color: #f5f5f5;
+  color: #333;
+}
+
+/* Header */
+.main-header {
+  background-color: #4f8ef7;
+  color: white;
+  padding: 20px;
+  margin-bottom: 20px;
+  border: 3px solid #3b6fc2;
+}
+
+/* Section Styling */
+.content-section {
+  background-color: #ffffff;
+  padding: 15px;
+  margin-bottom: 20px;
+  border: 2px dashed #aaa;
+}
+
+/* Card Component */
+.card {
+  background-color: #fff9c4;
+  border: 2px solid #fbc02d;
+  padding: 20px;
+  margin: 10px 0;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+/* Button */
+.main-button {
+  background-color: #009688;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  margin-top: 15px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.main-button:hover {
+  background-color: #00796b;
+}
